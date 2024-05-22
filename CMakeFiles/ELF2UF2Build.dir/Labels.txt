@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+S:/pico/Blink/CMakeFiles/ELF2UF2Build
+S:/pico/Blink/CMakeFiles/ELF2UF2Build.rule
+S:/pico/Blink/CMakeFiles/ELF2UF2Build-complete.rule
+S:/pico/Blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+S:/pico/Blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+S:/pico/Blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+S:/pico/Blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+S:/pico/Blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+S:/pico/Blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+S:/pico/Blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
